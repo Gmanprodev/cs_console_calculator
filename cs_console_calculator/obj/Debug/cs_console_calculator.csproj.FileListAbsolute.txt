@@ -1,0 +1,7 @@
+F:\Marc Projects\cs_console_calculator\cs_console_calculator\bin\Debug\cs_console_calculator.exe.config
+F:\Marc Projects\cs_console_calculator\cs_console_calculator\bin\Debug\cs_console_calculator.exe
+F:\Marc Projects\cs_console_calculator\cs_console_calculator\bin\Debug\cs_console_calculator.pdb
+F:\Marc Projects\cs_console_calculator\cs_console_calculator\obj\Debug\cs_console_calculator.csprojAssemblyReference.cache
+F:\Marc Projects\cs_console_calculator\cs_console_calculator\obj\Debug\cs_console_calculator.csproj.CoreCompileInputs.cache
+F:\Marc Projects\cs_console_calculator\cs_console_calculator\obj\Debug\cs_console_calculator.exe
+F:\Marc Projects\cs_console_calculator\cs_console_calculator\obj\Debug\cs_console_calculator.pdb
